@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+longgamegoodstride
 - patrik
 - [Ilkhom Safarov](https://github.com/ilhom-s)
 - [rockstar](https://github.com/rockstar)
